@@ -24,6 +24,7 @@
 #
 # print(ocr_core('test1.png'))
 
+import cv2
 import string
 from cv2 import data
 import os
