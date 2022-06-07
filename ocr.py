@@ -25,7 +25,7 @@
 # print(ocr_core('test1.png'))
 
 import string
-from cv2 import data
+# from cv2 import data
 import os
 from flask import send_file
 import numpy as np
